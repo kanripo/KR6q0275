@@ -1,5 +1,5 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 21:49:22.296562
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 17:20
 #+TITLE: 瑯琊慧覺禪師語錄（序）
 #+PROPERTY: CBETA_ID X69n1339
 #+PROPERTY: ID KR6q0275
@@ -10,7 +10,7 @@
 #+PROPERTY: LASTPB <pb:KR6q0275_X_001-0197b> 
 #+PROPERTY: JUAN 1
 
-No.1339-A滌州琅邪山覺和尚中後四錄¶
+* No.1339-A滌州琅邪山覺和尚中後四錄¶
 參學門人　用孫　序¶
 
 夫宗師之出世居方者。抑而為之。提綱振維者。蓋不¶
